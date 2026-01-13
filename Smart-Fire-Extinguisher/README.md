@@ -6,7 +6,8 @@ a water pump to extinguish it.
 ## Components
 - Arduino Uno
 - Flame Sensor
-- ultra sonic sensor
+- Ultra sonic sensor
+- Servo motor
 - Relay Module
 - Water Pump
 
